@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Bash & TypeScript
+
+![Metrics](/github-metrics.svg)
